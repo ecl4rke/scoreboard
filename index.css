@@ -51,7 +51,7 @@ button {
 }
 
 button:active {
-  transform: scale(0.95); /* Slightly shrinks the button */
+  transform: scale(0.95);
   background-color: #e6b800;
 }
 
